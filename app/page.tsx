@@ -190,7 +190,7 @@ export default function MemoryGame() {
                 onChange={(e) => setUserName(e.target.value)}
                 onKeyPress={handleKeyPress}
                 placeholder="Your name"
-                className="w-full px-4 py-3 rounded-lg border-2 border-purple-300 focus:border-purple-500 focus:outline-none text-lg"
+                className="w-full px-4 py-3 text-black rounded-lg border-2 border-purple-300 focus:border-purple-500 focus:outline-none text-lg"
                 disabled={isLoading}
                 autoFocus
               />
