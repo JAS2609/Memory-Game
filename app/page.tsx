@@ -179,7 +179,7 @@ export default function MemoryGame() {
             <h1 className="text-3xl font-bold text-purple-600 mb-2">
               Memory Game
             </h1>
-            <p className="text-gray-600">Enter your name to start playing</p>
+            <p className="text-black">Enter your name to start playing</p>
           </div>
           
           <div className="space-y-4">
